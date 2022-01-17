@@ -1,0 +1,67 @@
+h2 {
+    background-color: coral;
+    color: darkgray;
+}
+/* css nya text 1 */
+#text{
+    color: coral;
+}
+.klas{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.latihan {
+    color: chartreuse;
+    text-align: center;
+    background-color: darkgray;
+}
+body{
+    /* background: linear-gradient(orange,purple,gray); */
+    background-image: url(https://img.inews.co.id/media/822/files/inews_new/2018/06/05/padangrumput1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tabel{
+    background-color: darkgray;
+    display: inline-block;
+
+}
+#gambar {
+    height: 200px;
+    width: 200px;
+    padding: 5px 6px 7px 10px;
+}
+#kesukaan{
+    width: 15vh;
+}
+#hobi {
+    width: 15vh;
+}
+.tabel {
+    border-spacing: 0px;
+    border-radius: 10px;
+    border-color: darkgreen;
+}
+.marg{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 2px solid rgb(80, 63, 136);
+    border-radius: 5px;
+    text-align: center;
+}
+.marg:hover{
+    background-color: chartreuse;
+}
+.margin-kiri{
+    margin-left: 20px;
+}
+img {
+    border-radius: 15px;
+}
+.font {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.link{
+    text-decoration: none;
+}
